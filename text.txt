@@ -1,0 +1,3 @@
+admin,admin@gmail.com,dfdslgjkj,admin
+user,asif@gmail.com,dfdslgjkj,user
+user3,asif@gmail.com,dfdslgjkj,user
